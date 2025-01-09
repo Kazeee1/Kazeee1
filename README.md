@@ -8,4 +8,4 @@ Saat ini saya sedang mempelajari Machine Learning
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]
-(https://www.linkedin.com/in/ZillyZunaidi)
+(https://www.linkedin.com/in/ZillyZunaidi)<br>
