@@ -27,3 +27,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kazeee1&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=kazeee1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kazeee1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+<p align="left">
+<a href="https://github.com/kazeee1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
